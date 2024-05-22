@@ -15,7 +15,7 @@ Vida longa e próspera á todos nós 🖖
 
 ## 🖥️ GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oemersonsa&layout=compact&bg_color=fff&border_color=000&title_color=000&text_color=000)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oemersonsa&layout=compact&bg_color=212121&border_color=212121&title_color=fff&text_color=fff)
 
 ## 🤝 Minhas Contribuições
 
