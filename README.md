@@ -19,4 +19,4 @@ Vida longa e próspera á todos nós 🖖
 
 ## 🤝 Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oemersonsa&repo=dio-lab-open-source&bg_color=fff&border_color=000&show_icons=true&icon_color=000&title_color=000&text_color=000)](https://github.com/oemersonsa/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oemersonsa&repo=dio-lab-open-source&bg_color=212121&border_color=212121&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/oemersonsa/dio-lab-open-source)
