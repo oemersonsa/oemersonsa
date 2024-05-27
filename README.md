@@ -1,22 +1,49 @@
-# Emerson Santos
+<h2 align="left">Hi 👋! My name is Emerson and I'm a backend developer, from Brazil!</h2>
 
-Hello World!
-Tem que começar assim pra dar sorte 😂!
+###
 
-Enfim, me chamo Emerson e sou mais um entusiasta nessa área da programação, querendo entrar de vez nesse meio. Por isso sigo estudando e aprendendo sempre mais!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oemersonsa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oemersonsa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-Espero poder estar atuando no meio em breve e tomara que nós encontremos nessa jornada 
+###
 
-Vida longa e próspera á todos nós 🖖
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
-## 🔗 Conecte-se comigo 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oemersonsa/)
-[![Threads](https://img.shields.io/badge/Threads-000?style=for-the-badge&logo=threads)](https://www.threads.net/oemersonsa)
+###
 
-## 🖥️ GitHub Stats
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="instagram.com/oemersonsa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="x.com/oemeronsa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="t.me/oemersonsa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oemersonsa&layout=compact&bg_color=212121&border_color=212121&title_color=fff&text_color=fff)
+###
 
-## 🤝 Minhas Contribuições
+<br clear="both">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oemersonsa&repo=dio-lab-open-source&bg_color=212121&border_color=212121&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/oemersonsa/dio-lab-open-source)
+<img src="https://raw.githubusercontent.com/oemersonsa/oemersonsa/output/snake.svg" alt="Snake animation" />
+
+###
