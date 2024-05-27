@@ -28,14 +28,16 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <a href="instagram.com/oemersonsa" target="_blank">
+  <a href="https://linkedin.com/in/oemersonsa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/oemersonsa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="x.com/oemeronsa" target="_blank">
+  <a href="https://x.com/oemeronsa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
-  <a href="t.me/oemersonsa" target="_blank">
+  <a href="https://t.me/oemersonsa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
 </div>
@@ -44,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/oemersonsa/oemersonsa/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/oemersonsa/oemersonsa/output/snake.svg](https://profile-readme-generator.com/assets/snake.svg)" alt="Snake animation" />
 
 ###
